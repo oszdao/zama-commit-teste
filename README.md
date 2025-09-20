@@ -18,3 +18,13 @@ Commit 17 line
 Commit 18 line
 Commit 19 line
 Commit 20 line
+
+## 🌐 Read in Other Languages
+
+You can read this guide in other languages:
+
+- 🇺🇸 English - [README_EN.md](link-to-english-version)
+- 🇪🇸 Español - [README_ES.md](link-to-spanish-version)
+- 🇫🇷 Français - [README_FR.md](link-to-french-version)
+- 🇩🇪 Deutsch - [README_DE.md](link-to-german-version)
+- 🇮🇳 हिंदी - [README_HI.md](link-to-hindi-version)
