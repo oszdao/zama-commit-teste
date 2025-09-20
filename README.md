@@ -19,19 +19,28 @@ Commit 18 line
 Commit 19 line
 Commit 20 line
 
-## 🌐 Read in Other Languages
+# Project Name
 
-You can read this guide in other languages:
+[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-- 🇺🇸 English - [README_EN.md](link-to-english-version)
-- 🇪🇸 Español - [README_ES.md](link-to-spanish-version)
-- 🇫🇷 Français - [README_FR.md](link-to-french-version)
-- 🇩🇪 Deutsch - [README_DE.md](link-to-german-version)
-- 🇮🇳 हिंदी - [README_HI.md](link-to-hindi-version)
-- 🇧🇩 বাংলা - [README_BN.md](link-to-bengali-version)
-- 🇷🇺 Русский - [README_RU.md](link-to-russian-version)
-- 🇯🇵 日本語 - [README_JP.md](link-to-japanese-version)
-- 🇰🇷 한국어 - [README_KO.md](link-to-korean-version)
-- 🇵🇹 Português - [README_PT.md](link-to-portuguese-version)
-- 🇮🇹 Italiano - [README_IT.md](link-to-italian-version)
-- 🇹🇷 Türkçe - [README_TR.md](link-to-turkish-version)
+---
+
+### _Read this in [other languages](translations/Translations.md):_
+
+<kbd>[<img title="English" alt="English" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/gb.svg" width="22">](translations/README_EN.md)</kbd>
+<kbd>[<img title="Español" alt="Español" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](translations/README_ES.md)</kbd>
+<kbd>[<img title="Français" alt="Français" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">](translations/README_FR.md)</kbd>
+<kbd>[<img title="বাংলা" alt="বাংলা" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/bd.svg" width="22">](translations/README_BN.md)</kbd>
+
+---
+
+## 🚀 How to Contribute (Fork → Clone → Edit → Pull Request)
+
+### Step 1: Fork this Repo
+Click the **Fork** button on GitHub to create your own copy.
+
+### Step 2: Clone your Fork
+```bash
+git clone https://github.com/YOURUSERNAME/REPO_NAME.git
+cd REPO_NAME
